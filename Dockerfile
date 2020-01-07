@@ -1,4 +1,4 @@
-FROM ereyesalvarez/jnlp-slave-docker:2.1
+FROM ereyesalvarez/jenkins-slave-docker-utils:1.0
 
 USER root
 
